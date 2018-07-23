@@ -4,6 +4,11 @@
       "id": 1,
       "givenName": "Joe",
       "surname": "Blow"
+    },
+    {
+      "id": 3,
+      "givenName": "Hantz",
+      "surname": "Fritzer"
     }
   ],
   "profile": {
